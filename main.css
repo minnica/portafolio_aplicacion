@@ -1,0 +1,27 @@
+body{
+    background-color:#dee2e6;
+  
+}
+ table.dataTable thead {
+    background: #dedede;
+    color:black;
+}
+
+.caja{
+  /* border: 1px solid; */
+  padding: 5px;
+  box-shadow: 10px 10px 50px 1px #7c7c81;
+  border-radius: 10px;
+}
+.sinborde {
+	border: 0;
+	}
+    .redondeadonorelieve {
+    border-radius: 5px;
+    border: 1px solid #39c;
+  }
+input[type=text] {
+  border: none;
+  border-bottom: 2px solid lightblue;
+  background: transparent;
+}
